@@ -1,2 +1,3 @@
-# python_school
-Repository for digital lagoon python school
+# デジタルラグーンPythonスクール
+このリポジトリにはPythonスクールの演習問題の解答例をアップロードしておきます。
+適宜参考にしてください。
