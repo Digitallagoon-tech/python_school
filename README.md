@@ -28,7 +28,7 @@
 また、Class = "B" かつ Ageが20以上の行のみを表示してください。  
 最後に、ClassごとのScoreの平均を計算してください（平均の列名を「平均スコア」にしてください）。
 
-6. 以下のデータフレームを使用して、pandas の pivot_table を作成し、Product ごとの合計 Sales を計算してください。  
+6. 以下のデータフレームを使用して、pandas の pivot_table を作成し、Product / Region ごとの合計 Sales を計算してください。  
 
 | Product | Region | Sales |
 |---------|--------|-------|
